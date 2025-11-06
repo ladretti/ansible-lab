@@ -200,7 +200,7 @@ suse | CHANGED => {
 
 ---
 
-## 💽 7. Afficher l’espace utilisé par la partition principale
+## 7. Afficher l’espace utilisé par la partition principale
 
 ```bash
 ansible all -m command -a "df -h /"
